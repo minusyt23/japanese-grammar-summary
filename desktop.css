@@ -1,0 +1,11 @@
+header {
+    text-align: center;
+}
+
+.title::after{
+    content: " - Japanese Grammar Summary"
+}
+
+.subtitle {
+    display: none;
+}
